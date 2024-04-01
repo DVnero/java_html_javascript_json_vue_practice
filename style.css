@@ -1,4 +1,19 @@
 body{
     background-color: azure;
-
+}
+header{
+    background-color: grey;
+    height: 90px;
+    width: 100%;
+}
+hgroup{
+    font-style: oblique;
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    margin-top: -30px;
 }
